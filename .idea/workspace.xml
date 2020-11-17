@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="de3ccc25-c721-4d9f-9255-e14b21e32dbf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,6 +122,7 @@
       <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/algolia/algoliasearch-client-php" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kPZwEd64Ashwmdl73nZt7hyOKX" />
@@ -147,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605604423989</updated>
-      <workItem from="1605604425115" duration="314000" />
+      <workItem from="1605604425115" duration="2318000" />
     </task>
     <servers />
   </component>
@@ -155,9 +159,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1585" y="349" width="670" height="676" key="search.everywhere.popup" timestamp="1605604446503">
+    <state x="1585" y="349" width="670" height="676" key="search.everywhere.popup" timestamp="1605605015115">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="1585" y="349" width="670" height="676" key="search.everywhere.popup/0.25.2560.1415@0.25.2560.1415" timestamp="1605604446503" />
+    <state x="1585" y="349" width="670" height="676" key="search.everywhere.popup/0.25.2560.1415@0.25.2560.1415" timestamp="1605605015115" />
   </component>
 </project>
